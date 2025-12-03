@@ -42,6 +42,11 @@ h2 {
     padding-top: 4rem; /* prevents navbar from overlapping content */
 }
 
+.card-img-top {
+    height: 300px;
+    object-fit: contain;
+}
+
 /* Buttons */
 
 .custom-button-filled {
