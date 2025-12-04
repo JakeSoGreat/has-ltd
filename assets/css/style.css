@@ -5,10 +5,14 @@
 :root {
     --primary-font: "Roboto", sans-serif;
     --secondary-font: "Bentham", serif;
-    --primary-color: #3a2620; /* dark brown */
-    --secondary-color: #aa9581; /* light brown */
-    --highlight-color: #416a8e; /* blue */
-    --highlight-color-light: #7a9fc2; /* light blue */
+    --primary-color: #2c3e50; /* dark industrial steel blue */
+    --secondary-color: #7f8c8d; /* medium steel gray */
+    --highlight-color: #d35400; /* industrial orange (safety/machinery) */
+    --highlight-color-light: #e67e22; /* bright industrial orange */
+    /* --primary-color: #3a2620; /* dark brown */
+   /*  --secondary-color: #aa9581; /* light brown */
+    /* --highlight-color: #416a8e; */ /* blue */
+    /* --highlight-color-light: #7a9fc2; */ /* light blue */
 }
 
 /* Global styles */
