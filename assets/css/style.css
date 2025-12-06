@@ -10,7 +10,7 @@
     --highlight-color: #d35400; /* industrial orange (safety/machinery) */
     --highlight-color-light: #e67e22; /* bright industrial orange */
     /* --primary-color: #3a2620; /* dark brown */
-   /*  --secondary-color: #aa9581; /* light brown */
+    /*  --secondary-color: #aa9581; /* light brown */
     /* --highlight-color: #416a8e; */ /* blue */
     /* --highlight-color-light: #7a9fc2; */ /* light blue */
 }
@@ -210,7 +210,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 57.15px;
+    margin-top: -57.15px; /* pull hero up to sit flush under the fixed navbar */
 }
 
 .hero-image {
